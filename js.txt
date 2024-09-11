@@ -1,0 +1,55 @@
+1 word vs keyword ->
+rohit -> word hai isko ham hmesa string me likhenge chahe 
+vo ank hi ku na ho jaise 12 
+exaple--> "rohit" "12"
+
+2 keyword -> var , loop, forEach
+
+3 // 2 keyword -> var , loop, forEach
+
+// priting method / function 
+//keyword()-> method/function call
+//word()
+console.log("hello world", "kya hal hai");
+console.error("hello world")
+console.warn("hello world")
+
+
+4 //variables
+//var varname = "value/data/information"
+
+//jaise yha -> id -> word hai 
+
+
+var id = "ihihiyilouoiuturyr"
+
+//id -> yha hmne iske ange ->var<- 
+//lga kr id ko keyword bna dia
+
+console.log(id)
+
+
+5//. naming conversion of the variables
+//1 must start with small/capital/_nad must not staart with number.
+//2 variable name must not include any special chaerctor other than_
+// 3 variable name must a singke in a single word
+//4 young_age -> snack_case_pattern
+//teenAgeOther -> camelCasePattern
+//OldAgeOther -> PascalCasePattern
+//kabab-case-pattern XXXXXXXXXXX
+//5 variable name must be relevent to its's value and unique 
+//var age = "sheryians coding school"
+
+//datatype ->
+number 
+string 
+null
+undefind
+object
+symbol
+
+// 1. number -> NaN , infinity , -infinity
+// var age = 12;
+// console.log(age);
+// console.log(typeof age)
+
