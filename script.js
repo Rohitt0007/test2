@@ -92,3 +92,53 @@
 
 // a = 45; // reinitialzation/updation
 // console.log(a);
+
+// input -> 
+//alert()
+// console.log("hello");
+// alert("hello");
+// var res = confirm("Are you valid customer ?");
+// console.log(res);
+
+//output ->
+// var n = prompt("enter namber");
+// var m = prompt("enter number");
+// console.log(n + m);
+// console.log(typeof n);
+
+
+//Tye of conversion
+
+// Explicit type Conversion -> developer does that
+
+// var n = Number( prompt("enter namber"));
+// var m = +prompt("enter number");
+// console.log(n + m );
+// console.log(typeof n);
+
+//implicit Type conversion -> computer(programing language ) does that
+
+//12 + "hello" = "12hello"
+
+
+
+//scope -> {} -> duri ya distance
+
+// Global Variable 
+// Local Variable
+
+// var -> global variable hai
+
+// var age = 24;
+
+// {
+//     let username = "rohit" // local variable
+//     username = "rawat";
+
+//     const city = "bhopal" // local variable
+
+//     console.log(username);
+//     console.log(city);
+// }
+
+// console.log(age)

@@ -53,3 +53,7 @@ symbol
 // console.log(age);
 // console.log(typeof age)
 
+prompt hmesa string  btata hai
+
+//
+what is jit in javascript
